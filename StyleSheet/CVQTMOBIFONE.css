@@ -1,0 +1,41 @@
+﻿.anhcvqt {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 2px;
+    border: 1px solid #e3e1e8;
+    margin-top: 10px;
+    width: 611px;
+    height: 267px;
+}
+
+.tablecvqt_1 {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border: 1px solid rgb(221, 221, 221);
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+    width: 784px;
+    height: 249px;
+}
+
+    .tablecvqt_1 span {
+        color: blue;
+    }
+
+bookquote span {
+    color: red;
+}
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    border-left: 5px solid #eee;
+}
+
+.cachtren1 {
+    margin-top: 10px;
+}

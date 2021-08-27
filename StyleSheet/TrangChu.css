@@ -1,0 +1,316 @@
+﻿.container-fluid {
+    padding-left: 0px;
+    margin: auto;
+    
+}
+
+.header {
+    background: #e13b3b;
+    height: 8px;
+    box-shadow: 0 2px 3px #cccccc;
+    position: relative;
+    z-index: 1;
+}
+
+    .header::before {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        content: "";
+        background: #f2b03f;
+        width: 60%;
+    }
+
+    .header:after {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        content: "";
+        background: #277cbe;
+        width: 20%;
+    }
+
+.header_1 {
+    background: #eef3f9;
+    position: relative;
+    height: 80px;
+}
+
+.mid {
+    margin: 15px;
+}
+
+.menucolor {
+    background-color: #0471bf;
+    height: 47px;
+}
+
+.colorchu {
+    color: white;
+    height: 45px;
+}
+
+.heading {
+    background: rgba(255,255,255,0.7);
+    color: #2c3e50;
+    margin-bottom: 5px;
+    display: inline-block;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding: 12px 20px;
+}
+.banner {
+    width: 101%;
+    height: 500px;
+}
+.heading-1 {
+    min-width: 100%;
+    border-left: 3px solid #0063af;
+}
+
+.heading-2 {
+    min-width: 85%;
+    border-left: 3px solid #de2823;
+}
+
+.heading-3 {
+    min-width: 70%;
+    border-left: 3px solid #444444;
+}
+
+.tablee {
+    padding: 150px 120px 0px 230px;
+    text-align: right;
+}
+
+h2 {
+    text-align: center;
+    color: #de2823;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+h3 {
+    background: #ebebeb;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 0;
+    text-align: center;
+    margin:0px;
+}
+
+.cacgoi {
+    background-color: #f8f8f8;
+    padding: 0px 0px;
+    margin-bottom: 10px;
+    margin-right: 24px;
+    width: 23%;
+}
+
+.rowduoi {
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.time {
+    font-size: 12px;
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.data {
+    float: left;
+    width: 100%;
+    margin: 2px 0 10px 0;
+    margin-left: 10px;
+}
+
+.time_color, .data_color {
+    float: right;
+    margin-right: 25px;
+    color: #0471bf;
+    font-size:14px;
+}
+
+.sms, .price {
+    text-align: center;
+    margin: 20px 0 0px 0;
+}
+
+.button {
+    border-radius: 0px;
+    width: 134px;
+    height: 32px;
+    margin: 0px 0px 8px 70px;
+}
+
+
+
+.price {
+    font-size: 30px;
+    border-top: 1px solid #ebebeb;
+}
+
+h4, p {
+    list-style: none;
+    color: #222222;
+}
+
+.kichcotrai {
+    width: 60%;
+    height: 233px;
+    float:right;
+}
+
+.kichcophai {
+    width: 95%;
+    height: 230px;
+}
+
+.img {
+    float: left;
+}
+
+.le {
+    margin: 0px 0px 0px 200px;
+}
+
+.nho {
+    width: 40%;
+}
+
+.divcuoi {
+    width: 80%;
+    margin: 0 26px 0 160px;
+}
+
+.list {
+    padding: 0;
+    color: #333333;
+    text-decoration: none;
+}
+
+    .list li {
+        border-bottom: 1px dotted #DDDDDD;
+        padding: 8px 0 8px 22px;
+    }
+
+.hotro {
+    margin-top: 0px;
+}
+
+.list a:visited {
+    color: #333333;
+}
+
+.list a:link {
+    text-decoration: none;
+    color: #333333;
+}
+
+.nutbutton {
+    float: right;
+    border-radius:0px;
+}
+
+.row1 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.foot {
+    margin-top: 30px;
+    border-bottom: 1px dotted #DDDDDD;
+}
+.clear{
+    clear:both;
+}
+a:hover, a:focus {
+    color: #0471bf;
+    text-decoration: none;
+    outline: none;
+}
+.divsearch {
+    width: 262px;
+    height: 30px;
+}
+
+.buttonsearch {
+    height: 30px;
+}
+.dropbtn {
+    background-color: #0471bf;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        width: 180px;
+        font-size: 15px;
+    }
+
+        .dropdown-content a:hover {
+            background-color: #0471bf;
+            color: white;
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: white;
+    color: #0471bf;
+}
+
+.dropdownbutton {
+    height: 46px;
+    margin: 0px;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.color2hinh {
+    background-color: #f5f5f5;
+    margin-top:20px;
+    height:520px;
+}
+.black{
+    color:black;
+}
+.xanhnhat {
+    color: #0471bf;
+}
+.donhat {
+    color: #de2823;
+}
+.sms strong {
+    color: #de2823;
+}
+.footer {
+    color: #666666;
+    font-size: 12px;
+}

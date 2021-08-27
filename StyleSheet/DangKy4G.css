@@ -1,0 +1,49 @@
+﻿p {
+    text-align: justify;
+    margin: 0 0 25px;
+}
+
+.anh4g {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 2px;
+    border: 1px solid #e3e1e8;
+    margin-top: 10px;
+    width: 331px;
+    height: 252px;
+}
+
+.chu {
+    font-size: 13px;
+}
+
+.table_4G {
+    border: 1px dashed rgb(187, 187, 187);
+    color: #333333;
+    font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+    font-size: 16px;
+    width: 730px;
+    height: 561px;
+    text-align: center;
+}
+
+    .table_4G tr td {
+        border: 1px dashed rgb(187, 187, 187);
+    }
+    .black{
+        color:black;
+    }
+.likepage1 {
+    width: 64%;
+    margin: 40px 0 0 9px;
+    height: 30px;
+    border-radius: 0px;
+}
+.contract1 {
+    float: right;
+    margin: 40px 9px 0 0;
+    height: 30px;
+    border-radius: 0px;
+}

@@ -1,0 +1,93 @@
+﻿.sms_fast {
+    text-align: center;
+    margin: 20px 0 10px 0px;
+}
+
+    .sms_fast b {
+        color: blue;
+    }
+
+.tablefast_1 {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border: 1px solid rgb(221, 221, 221);
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    width: 783px;
+    height: 353px;
+}
+
+    .tablefast_1 b {
+        color: blue;
+    }
+
+.tablefast_2 {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border: 1px solid rgb(221, 221, 221);
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    width: 783px;
+    height: 189px;
+}
+
+    .tablefast_2 b {
+        color: blue;
+    }
+
+.goifast {
+    background: #e1e1e1;
+    padding: 5px 8px;
+    color: #555;
+    font-size: 13px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.afast {
+    margin-top: 10px;
+    background: #0471bf;
+    padding: 5px 10px;
+    color: #ffffff;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.media1 {
+    background: #f0f0f0;
+    padding: 0px;
+    width: 370px;
+}
+
+.amedia {
+    color: black;
+    font-size: 14px;
+    line-height: 19px;
+    text-shadow: 0 2px 2px #fff;
+    padding: 10px 10px 0 0px;
+    margin-left: 80px;
+}
+
+.media2 {
+    margin-right: 10px;
+}
+
+a:hover a:focus {
+    color: black;
+    text-decoration: none;
+    outline: none;
+}
+
+.chugiua {
+    text-align: center;
+}
+
+.cachtren {
+    margin-top: 40px;
+}

@@ -1,0 +1,244 @@
+﻿.foottrai {
+    height:140px;
+}
+
+.gach {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+h2 {
+    color: #000000;
+    text-align: left;
+}
+
+.khoangcach {
+    padding-top: 20px;
+}
+
+a:hover, a:focus {
+    color: #0471bf;
+    text-decoration: none;
+    outline: none;
+}
+
+.anh {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+bookquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    border-left: 5px solid #eee;
+}
+
+    bookquote b {
+        color: red;
+        font-size: large;
+    }
+
+.table {
+    border: 1px dashed rgb(187, 187, 187);
+    height: 379px;
+    width: 697px;
+    color: #333333;
+    font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+    font-size: 16px;
+    text-align: start;
+}
+
+table b {
+    color: red;
+}
+.table tr td{
+    border: 1px dashed rgb(187, 187, 187);
+}
+
+.table_1 {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border: 1px solid rgb(221, 221, 221);
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+    width: 784px;
+    height: 206px;
+}
+
+.scroll {
+    background-color: white;
+    box-sizing: border-box;
+    color: #222222;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0px auto;
+    overflow: auto;
+    padding: 0px;
+}
+
+.table_2 {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border: 1px solid rgb(221, 221, 221);
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+    width: 800px;
+    height: 180px;
+}
+
+.table_3 {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border: 1px solid rgb(221, 221, 221);
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+    width: 784px;
+    height: 426px;
+}
+
+    .table_3 b {
+        color: blue;
+    }
+
+.table_4 {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border: 1px solid rgb(221, 221, 221);
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+    width: 784px;
+    height: 247px;
+}
+
+#trangchu {
+    margin-left: 290px;
+}
+
+.widgettop {
+    background: #0471bf;
+    color: #ffffff;
+    padding: 0px 10px 0 16px;
+    font-size: 18px;
+    position: relative;
+    z-index: 10;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+}
+
+    .widgettop::after {
+        position: absolute;
+        content: "";
+        left: 0;
+        top: 9px;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 5px 0 5px 5px;
+        border-color: transparent transparent transparent #ffffff;
+    }
+
+.widgetbody {
+    padding: 0px;
+    margin: 0;
+    border: 1px solid #eaeaea;
+}
+
+    .widgetbody li {
+        position: relative;
+        border-bottom: 1px solid #ebebeb;
+        width: 358px;
+        height: 41px;
+        list-style: none outside none;
+    }
+
+    .widgetbody ul li {
+        padding: 10px 10px 10px 0px;
+    }
+
+    .widgetbody ul {
+        padding-left: 0px;
+    }
+
+    .widgetbody a {
+        font-size: 15px;
+        font-weight: 700;
+        color: black;
+        margin: 15px;
+    }
+
+.divcuoitrai {
+    width: 140px;
+    float: left;
+}
+
+.anh2 {
+    width: 130px;
+}
+
+.divcuoitrai2 {
+    height: 150px;
+}
+
+.widget_1 ul li {
+    color: black;
+    
+}
+.widget_1 {
+    margin: 0px 0px 10px -16px;
+}
+
+.widget_1 a {
+    color: #555555;
+}
+
+.khuyenmai {
+    background-color: #f2f2f2;
+    height: 310px;
+}
+.khuyenmaibody{
+    height:140px;
+}
+
+.trai {
+    float: left;
+}
+
+.contact {
+    float: right;
+    margin: 54px 9px 0 0;
+    height: 30px;
+    border-radius: 0px;
+}
+
+.likepage {
+    width: 64%;
+    margin: 54px 0 0 9px;
+    height: 30px;
+    border-radius: 0px;
+}
+
+.logofb {
+    width: 18%;
+}
+
+.white {
+    color: white;
+}
+p {
+    line-height: 1.428571;
+    text-align: justify;
+}
+.bred{
+    color:red;
+}
+.bblue{
+    color:blue;
+}
